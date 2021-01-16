@@ -1,5 +1,5 @@
 ---
-title: Lambda 表达式 - C# 引用
+title: Lambda 表达式 - C# 参考
 description: 了解 Lambda 表达式。 存在表达式作为其主体的表达式 Lambda，或语句块作为其主体的语句 Lambda。
 ms.date: 09/25/2020
 helpviewer_keywords:
@@ -16,7 +16,7 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 11/12/2020
 ms.locfileid: "94556837"
 ---
-# <a name="lambda-expressions-c-reference"></a>Lambda 表达式（C# 引用）
+# <a name="lambda-expressions-c-reference"></a>Lambda 表达式（C# 参考）
 
 “Lambda 表达式”是采用以下任意一种形式的表达式：
 
